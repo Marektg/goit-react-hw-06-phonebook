@@ -1,6 +1,6 @@
-import ContactForm from "./ContactForm";
-import ContactList from "./ContactList";
-import FilteredUsers from "./FilteredUsers";
+import ContactForm from "./contactForm";
+import ContactList from "./contactList";
+import FilteredUsers from "./filteredUsers";
 import { useSelector } from 'react-redux';
 import isEmpty from "../utility/isEmpty";
 

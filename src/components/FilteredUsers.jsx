@@ -1,5 +1,5 @@
 import { useSelector, useDispatch } from 'react-redux';
-import { filterContacts } from './redux/Actions';
+import { filterContacts } from '../redux/actions';
 
 const FilteredUsers = () => {
     const filter = useSelector(state => state.filter);

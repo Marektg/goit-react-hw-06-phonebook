@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux';
-import { deleteContact } from './redux/Actions';
+import { deleteContact } from '../redux/actions';
 import { useMemo } from 'react';
 
 

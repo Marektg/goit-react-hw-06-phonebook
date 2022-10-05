@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux';
-import { addContact } from './redux/Actions';
+import { addContact } from '../redux/actions';
 
 
 

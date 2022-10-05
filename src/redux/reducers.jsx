@@ -1,5 +1,5 @@
 import { createReducer } from '@reduxjs/toolkit';
-import { addContact, deleteContact, filterContacts } from './Actions';
+import { addContact, deleteContact, filterContacts } from './actions';
 import { combineReducers } from 'redux';
 
 
